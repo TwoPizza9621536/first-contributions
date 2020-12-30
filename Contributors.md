@@ -14,6 +14,7 @@
 - [Neenus Gabriel](https://github.com/neenus)
 - [Lalit 😊](https://github.com/lalit2005)
 - [Benny Godwin M](https://github.com/BennyGodwinM)
+- [PopescuGeorge](https://github.com/PopescuGeorge1)
 - [Cooper Johnson](https://github.com/SupeDupeCoop)
 - [Ty Richardson](https://github.com/tyrichardson)
 - [Martin Arroyo](https://github.com/martinarroyo777)
